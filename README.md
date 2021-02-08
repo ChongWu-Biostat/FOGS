@@ -1,4 +1,4 @@
-# FOGS (The new version is at ChongWuLab (https://github.com/ChongWuLab/FOGS))
+# FOGS (The new version is at [ChongWuLab](https://github.com/ChongWuLab/FOGS))
 
 *** Please check our updated version, whic is much easier to run! ***
 
