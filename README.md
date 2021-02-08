@@ -1,6 +1,6 @@
 # FOGS (The new version is at [ChongWuLab](https://github.com/ChongWuLab/FOGS))
 
-*** Please check our updated version, whic is much easier to run! ***
+**Please check our updated version, whic is much easier to run!**
 
 Transcriptome-wide association studies (TWAS) have been recently applied to successfully identify many novel genes associated with complex traits. While appealing, TWAS tend to identify multiple significant genes per locus and many of them may not be causal due to confounding through linkage disequilibrium (LD) among SNPs. Here we introduce a powerful fine-mapping method called FOGS that prioritizes putative causal genes by accounting for local LD. Check the following manuscript for details:
 
